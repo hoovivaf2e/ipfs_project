@@ -1,5 +1,5 @@
 # IPFS Project
-文章 https://medium.com/learn-record/tagged/%E5%8D%80%E5%A1%8A%E9%8F%88
+文章 https://reurl.cc/YW2qO0
 
 ## Project setup
 ```
