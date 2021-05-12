@@ -1,0 +1,48 @@
+{
+  "name": "pro",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "axios": "^0.21.0",
+    "buffer": "^6.0.3",
+    "core-js": "^3.6.5",
+    "crypto-js": "^4.0.0",
+    "hybrid-crypto-js": "^0.2.4",
+    "ipfs": "^0.52.2",
+    "ipfs-core": "^0.3.0",
+    "ipfs-http-client": "^48.1.2",
+    "jsencrypt": "^3.0.0-rc.1",
+    "node-forge": "^0.10.0",
+    "node-rsa": "^1.1.1",
+    "vue": "^2.6.11",
+    "vue-axios": "^3.2.0",
+    "vue-cryptojs": "^2.1.5",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0",
+    "web3": "^1.3.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
